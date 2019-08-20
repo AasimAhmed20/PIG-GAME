@@ -7,3 +7,4 @@ A pig game(DICE game) where your goal is to reach 100(or any number you set) bef
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100(or any number of points you set) points on GLOBAL score wins the game
 - HAVE! FUN!
+https://aasimahmed20.github.io/PIG-GAME/    - Click here to PLAY!
